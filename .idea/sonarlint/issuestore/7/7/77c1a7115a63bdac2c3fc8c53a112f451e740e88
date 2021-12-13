@@ -1,0 +1,8 @@
+
+o	java:S116"[Rename this field "credits_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿüÞ|
+o
+java:S1450"YRemove the "backbutton" field and declare it as a local variable in the relevant methods.(Êøµ±
+t
+java:S1450"_Remove the "credits_textview" field and declare it as a local variable in the relevant methods.(ÿüÞ|
+D
+java:S1068".Remove this unused "backbutton" private field.(Êøµ±

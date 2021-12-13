@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Take Your Time</string>
+
+    <string name="button_newGame">Nowa Gra</string>
+    <string name="button_options">Opcje</string>
+    <string name="button_maze">Labirynt</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="button_credits">Wykonali</string>
+    <string name="back_to_main_menu">Powrót do Menu</string>
+    <string name="dont_click_me">Dont click me</string>
+    <string name="button_joker">"Joker</string>
+
+    <string name="q_stolica">Kraków jest stolicą Polski</string>
+    <string name="q_stolica_p">Kraków był stolicą Polski</string>
+    <string name="q_browswer">Internet Explorer to najpopularniejsza przeglądarka internetowa</string>
+    <string name="q_finals">Zdamy na 5</string>
+    <string name="q_resources">Polska ma bogate złoża ropy naftowej</string>
+
+    <string name="correct_answer">Poprawna Odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna Odpowiedź</string>
+    <string name="backbutton">wstecz</string>
+    //Credits
+    <string name="made_by">Made by \nMarcin Stankiewicz\nDominik Olender\nIhar Balyka\nMichał Olesiewicz\nJakub Hapunik\nAdam Dębek</string>
+    <string name="title_activity_drag_and_drop_test">DragAndDropTest</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
